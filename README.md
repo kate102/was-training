@@ -27,3 +27,6 @@
 ### Gatsby
 - Installed node - https://nodejs.dev/download/
 - Set up - sudo npm install -g gatsby-cli
+- Created a new site **gatsby new **[Note that this should be from the dir above]
+- cd was-training
+- npm run develop
