@@ -10,3 +10,19 @@
 ## Plan A
 - To set up the Gatsby.js framework and github repo
 - To tackle each principle one at a time delving into the guidelines and the success criteria and then the techniques
+
+## Set up
+### github
+1. Created repo was-training
+2. On the command line created the directory was-training and entered it
+  * git remote set-url origin git@github.com:kate102/was-training.git
+  * echo "# was-training" >> README.md
+  * git init
+  * git add README.md
+  * git commit -m "first commit"
+  * git branch -M main
+  * git remote add origin https://github.com/kate102/was-training.git
+  * git push -u origin main
+
+### Gatsby
+- npm install -g gatsby-cli
