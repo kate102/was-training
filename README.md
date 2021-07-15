@@ -30,3 +30,4 @@
 - Created a new site **gatsby new **[Note that this should be from the dir above]
 - cd was-training
 - npm run develop
+- Followed complex instructions to host site...
