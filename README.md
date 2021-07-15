@@ -25,4 +25,5 @@
   * git push -u origin main
 
 ### Gatsby
-- npm install -g gatsby-cli
+- Installed node - https://nodejs.dev/download/
+- Set up - sudo npm install -g gatsby-cli
